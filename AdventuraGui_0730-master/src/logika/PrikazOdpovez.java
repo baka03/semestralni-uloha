@@ -6,7 +6,7 @@ package logika;
  *  Třída PrikazOdpovez implementuje pro hru příkaz odpovez.
  *  Tato třída je součástí jednoduché textové hry.
  *  
- * @author    Margarita Tsakunova
+ * @author    Anastasiia Bakhareva
  * @version   pro školní rok 2016/2017
  */
 
