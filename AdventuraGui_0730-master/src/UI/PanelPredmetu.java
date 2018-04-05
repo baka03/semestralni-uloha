@@ -23,7 +23,7 @@ import utils.Observer;
  * Třída PanelPredmetu umožňuje zobrazovat list s předměty vlevo v hlavním okně.
  * Předměty se nachází v různých prostorech
  * 
- * @author Margarita Tsakunova
+ * @author Anastasiia Bakhareva
  * @version pro školní rok 2017/2018
  */
 public class PanelPredmetu implements Observer{
