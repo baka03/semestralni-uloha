@@ -18,7 +18,7 @@ import utils.Observer;
  * Třída Mapa umožňuje zobrazovat obrázek s plánem prostorů.
  * Na obrázku bude vyznačen aktuální prostor
  * 
- * @author Margarita Tsakunova
+ * @author Anastasiia Bakhareva
  * @version pro školní rok 2017/2018
  */
 public class Mapa extends AnchorPane implements Observer{ //, ObserverHovaHra
