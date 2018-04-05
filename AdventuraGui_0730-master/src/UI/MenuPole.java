@@ -21,7 +21,7 @@ import main.Main;
  * Třída MenuPole umožňuje zobrazovat lištu nahoře v hlavním okně.
  * Lišta obsahuje různé položky
  * 
- * @author Margarita Tsakunova
+ * @author Anastasiia Bakhareva
  * @version pro školní rok 2017/2018
  */
 public class MenuPole extends MenuBar{
@@ -74,7 +74,7 @@ public class MenuPole extends MenuBar{
               alert.setContentText("Grafická podoba hry\n"
               + "\n"
               + "Verze: pro školní rok 2017/2018\n"
-              + "Autor: Margarita Tsakunova");
+              + "Autor: Anastasiia Bakhareva");
               alert.initOwner(main.getPrimaryStage());
               alert.showAndWait();
           }    
