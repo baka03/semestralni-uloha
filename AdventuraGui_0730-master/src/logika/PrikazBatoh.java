@@ -4,7 +4,7 @@ package logika;
  *  Třída PrikazBatoh implementuje pro hru příkaz batoh.
  *  Tato třída je součástí jednoduché textové hry.
  *  
- * @author    Margarita Tsakunova
+ * @author    Anastasiia Bakhareva
  * @version   pro školní rok 2016/2017
  */
 
