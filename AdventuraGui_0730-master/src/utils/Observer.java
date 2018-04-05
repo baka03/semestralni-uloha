@@ -10,7 +10,7 @@ import logika.IHra;
 /**
  * Třída Observer
  * 
- * @author Margarita Tsakunova
+ * @author Anastasiia Bakhareva
  * @version pro školní rok 2017/2018
  */
 public interface Observer {
