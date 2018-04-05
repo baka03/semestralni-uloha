@@ -8,7 +8,7 @@ package utils;
 /**
  * Třída Subject
  * 
- * @author Margarita Tsakunova
+ * @author Anastasiia Bakhareva
  * @version pro školní rok 2017/2018
  */
 public interface Subject {
