@@ -24,7 +24,7 @@ import javafx.event.*;
 /**
  * Třída Main slouží ke spouštění aplikace
  * 
- * @author Margarita Tsakunova
+ * @author Anastasiia Bakhareva
  * @version pro školní rok 2017/2018
  */
 public class Main extends Application {
