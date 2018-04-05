@@ -9,7 +9,7 @@ package logika;
  *  "Predmet" reprezentuje jednu věc nacházející se v určitém prostoru.
  *  Předmět může být přenositelným a naopak.
  *
- *@author     Margarita Tsakunova
+ *@author     Anastasiia Bakhareva
  *@version    pro školní rok 2016/2017
  */
 
