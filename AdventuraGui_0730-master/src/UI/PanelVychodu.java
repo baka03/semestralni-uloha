@@ -19,7 +19,7 @@ import utils.Observer;
 /**
  * Třída PanelVychodu umožňuje zobrazovat list s východy vlevo v hlavním okně
  * 
- * @author Margarita Tsakunova
+ * @author Anastasiia Bakhareva
  * @version pro školní rok 2017/2018
  */
 public class PanelVychodu implements Observer
