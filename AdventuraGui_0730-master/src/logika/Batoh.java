@@ -12,7 +12,7 @@ import java.util.HashMap;
  *  Předmět může být přenositelným a naopak. Je vkládán do batohu. Pomocí příkazu
  *  batoh můžeme zjistit obsah batohu.
  *
- *@author     Margarita Tsakunova
+ *@author     Anastasiia Bakhareva
  *@version    pro školní rok 2016/2017
  */
 
