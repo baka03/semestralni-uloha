@@ -23,7 +23,7 @@ import utils.Observer;
  * Třída PanelBatohu umožňuje zobrazovat list s předměty vpravo v hlavním okně.
  * Zobrazuje předměty, které byly vloženy do batohu
  * 
- * @author Margarita Tsakunova
+ * @author Anastasiia Bakhareva
  * @version pro školní rok 2017/2018
  */
 public class PanelBatohu implements Observer{
